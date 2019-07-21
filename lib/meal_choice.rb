@@ -1,4 +1,4 @@
 def meal_choice(veg, veggy, meat = "meat")
-  return "A plate of #{meat} with #{veg} and #{veggy}."
+  print "A plate of #{meat} with #{veg} and #{veggy}."
   puts "What a nutritious meal!"
 end
